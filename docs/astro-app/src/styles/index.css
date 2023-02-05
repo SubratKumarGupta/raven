@@ -94,7 +94,11 @@ p {
 }
 
 .content ul {
+  list-style: initial;
   line-height: 1.1em;
+}
+.content ol {
+  list-style: auto;
 }
 
 p,
