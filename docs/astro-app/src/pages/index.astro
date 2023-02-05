@@ -1,0 +1,27 @@
+---
+import Layout from "../layouts/landingPage.astro";
+
+import "../styles/landingPage/Navbar.styles.css";
+import "../styles/landingPage/Hero.styles.css";
+import "../styles/landingPage/Utils.styles.css";
+import "../styles/landingPage/FeaturesDiagonal.styles.css";
+import { ScrollUpButton } from "../components/landingPage/ScrollUpButton";
+import { FAQ } from "../components/landingPage/FAQ.jsx";
+import { Footer } from "../components/landingPage/Footer.jsx";
+import { Navbar } from "../components/landingPage/Navbar";
+import { Hero } from "../components/landingPage/Hero";
+
+---
+<Layout title="Raven">
+  <Navbar client:load />
+  <Hero client:load />
+  <FAQ client:load />
+  <Footer />
+  <ScrollUpButton  client:load />
+</Layout>
+
+<!-- <script is:inline>
+	// Redirect your homepage to the first page of documentation.
+	// If you have a landing page, remove this script and add it here!
+	window.location.pathname = `/en/introduction`;
+</script> -->
