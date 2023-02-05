@@ -12,7 +12,7 @@
 
 # Astro Starter Kit: Docs Site
 
-![docs](https://user-images.githubusercontent.com/4677417/186189283-0831b9ab-d6b9-485d-8955-3057e532ab31.png)
+![astro docs](https://user-images.githubusercontent.com/89026086/216800753-c7eb427b-775d-412f-895f-ddde00c42b69.jpg)
 
 ## Features
 
