@@ -2,7 +2,6 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-import { TailcastLogo } from "../../assets/logos/RavenLogo";
 import { GithubIcon } from "../../assets/icons/GithubIcon";
 import { FacebookIcon } from "../../assets/icons/FacebookIcon";
 import { InstagramIcon } from "../../assets/icons/InstagramIcon";
