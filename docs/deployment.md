@@ -1,6 +1,6 @@
-# Deployment
+# Embeddings Deployment
 
-Full serice is not yet available. However, work on some microservices is underway.
+Full service is not yet available. However, work on some microservices is underway.
 
 
 ## Embeddings Development

@@ -8,8 +8,8 @@ theme:
       - navigation.tabs.sticky
       - navigation.top
       - navigation.footer
-    logo: images/raven.jpg
-    favicon: images/favicon.jpg
+    logo: images/docs_logo.png
+    favicon: images/favicon.ico
     palette:
       scheme: slate
       font:
@@ -29,6 +29,7 @@ nav:
     - Contributing: 'Contributing.md'
     - Glossary: 'glossary.md'
     - License: 'LICENSE.md'
+    - README: 'https://github.com/daveshap/raven/tree/1.0.0-dev'
 
 extra:
   analytics:
